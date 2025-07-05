@@ -1,0 +1,23 @@
+# Ignore Python environment and sensitive files
+.env
+
+# Ignore Conda and Gradio folders
+.conda/
+.gradio/
+
+# Ignore backup and intentionally ignored folders
+ignore/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
