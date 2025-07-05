@@ -344,7 +344,7 @@ async def generate_ai_feedback(transaction_type: str, amount: float, category: s
         - Category: {category}
         - Description: {description}
         
-        Keep the response to 1-4 sentences maximum. Make your client cry and everyone else laugh hysterically at their expense.
+        Keep the response to 1-4 sentences maximum. Do not break the fourth wall and say "I could say this, or this." One roast is fine, no need for alternatives.
         
         Example responses:
         - "Your wallet doesn't need McDonald's, and neither does your waistline."
